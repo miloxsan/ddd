@@ -13,7 +13,7 @@ namespace PROJETOAPI.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            var x = 2;
+        
             return new string[] { "value1", "value2" };
         }
 
