@@ -1,0 +1,13 @@
+C:\Users\lcmed\ProjetoCore\PROJETOAPI\bin\Debug\netcoreapp2.0\PROJETOAPI.deps.json
+C:\Users\lcmed\ProjetoCore\PROJETOAPI\bin\Debug\netcoreapp2.0\PROJETOAPI.runtimeconfig.json
+C:\Users\lcmed\ProjetoCore\PROJETOAPI\bin\Debug\netcoreapp2.0\PROJETOAPI.runtimeconfig.dev.json
+C:\Users\lcmed\ProjetoCore\PROJETOAPI\bin\Debug\netcoreapp2.0\PROJETOAPI.dll
+C:\Users\lcmed\ProjetoCore\PROJETOAPI\bin\Debug\netcoreapp2.0\PROJETOAPI.pdb
+C:\Users\lcmed\ProjetoCore\PROJETOAPI\obj\Debug\netcoreapp2.0\PROJETOAPI.csproj.CoreCompileInputs.cache
+C:\Users\lcmed\ProjetoCore\PROJETOAPI\obj\Debug\netcoreapp2.0\PROJETOAPI.AssemblyInfoInputs.cache
+C:\Users\lcmed\ProjetoCore\PROJETOAPI\obj\Debug\netcoreapp2.0\PROJETOAPI.AssemblyInfo.cs
+C:\Users\lcmed\ProjetoCore\PROJETOAPI\obj\Debug\netcoreapp2.0\PROJETOAPI.dll
+C:\Users\lcmed\ProjetoCore\PROJETOAPI\obj\Debug\netcoreapp2.0\PROJETOAPI.pdb
+C:\Users\lcmed\ProjetoCore\PROJETOAPI\bin\Debug\netcoreapp2.0\PROJETO.CORE.dll
+C:\Users\lcmed\ProjetoCore\PROJETOAPI\bin\Debug\netcoreapp2.0\PROJETO.CORE.pdb
+C:\Users\lcmed\ProjetoCore\PROJETOAPI\obj\Debug\netcoreapp2.0\PROJETOAPI.csproj.CopyComplete
